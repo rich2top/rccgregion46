@@ -2,7 +2,7 @@ import "@/app/globals.css";
 import { QuizAppProvider } from "@/components/quiz-app-provider";
 
 export const metadata = {
-  title: "RCCG Region 49 Quiz",
+  title: "RCCG Region 46 Quiz",
   description: "A clean, modern and responsive RCCG quiz web app for Vercel deployment.",
 };
 

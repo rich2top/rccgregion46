@@ -8,7 +8,7 @@ export function PageShell({ children }) {
         <Link href="/" className="header-brand" aria-label="Go to home page">
           <RccgMark compact />
           <div className="header-copy">
-            <strong>RCCG Region 49</strong>
+            <strong>RCCG Region 46</strong>
             <span>Regional Quiz Portal</span>
           </div>
         </Link>

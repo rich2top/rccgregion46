@@ -1,4 +1,4 @@
-# RCCG Region 49 Quiz App
+# RCCG Region 46 Quiz App
 
 A clean and modern quiz web app built with Next.js for Vercel deployment.
 
@@ -26,7 +26,7 @@ npm run dev
 
 ## Notes
 
-- Region is fixed to `Region 49`.
+- Region is fixed to `Region 46`.
 - Email is used as the one-attempt identifier.
 - Province and Zone are editable fields.
 - Quiz questions are generated into `lib/question-banks.generated.js`.

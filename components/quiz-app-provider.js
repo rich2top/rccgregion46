@@ -8,14 +8,14 @@ import {
   shuffleArray,
 } from "@/lib/quiz-utils";
 
-const STORAGE_KEY = "rccg-region-49-quiz-v3";
+const STORAGE_KEY = "rccg-region-46-quiz-v1";
 const IS_DEVELOPMENT = process.env.NODE_ENV !== "production";
 
 const defaultState = {
   biodata: {
     fullName: "",
     email: "",
-    region: "Region 49",
+    region: "Region 46",
     province: "",
     zone: "",
     classType: "",

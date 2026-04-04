@@ -25,8 +25,8 @@ export default function HomePage() {
       <section className="landing-shell">
         <div className="card landing-card">
           <span className="section-tag">2026 Regional Quiz</span>
-          <p className="hero-kicker">RCCG Region 49</p>
-          <h1>Welcome to the RCCG Region 49 Regional Quiz Portal.</h1>
+          <p className="hero-kicker">RCCG Region 46</p>
+          <h1>Welcome to the RCCG Region 46 Regional Quiz Portal.</h1>
           <p className="landing-copy">
             Complete participant biodata, read the quiz instructions carefully, and
             proceed into the timed quiz session.

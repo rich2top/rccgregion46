@@ -16,7 +16,7 @@ export function RccgMark({ compact = false }) {
       {compact ? null : (
         <div className="brand-panel-copy">
           <strong>The Redeemed Christian Church of God</strong>
-          <span>Region 49 Quiz Portal</span>
+          <span>Region 46 Quiz Portal</span>
         </div>
       )}
     </div>
