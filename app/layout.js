@@ -4,6 +4,11 @@ import { QuizAppProvider } from "@/components/quiz-app-provider";
 export const metadata = {
   title: "RCCG Region 46 Quiz",
   description: "A clean, modern and responsive RCCG quiz web app for Vercel deployment.",
+  icons: {
+    icon: "/rccg-logo.png",
+    shortcut: "/rccg-logo.png",
+    apple: "/rccg-logo.png",
+  },
 };
 
 export default function RootLayout({ children }) {
